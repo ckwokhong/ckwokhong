@@ -8,7 +8,7 @@
 
 
 ### Passion Projects
-- 🔭 I’m currently working on: 
+- 🔭 I’m currently reading on: "Elements of Programming Interviews in Python" Book
 - 🌱 I’m currently learning: CS50x, Web/app development 
 
 
