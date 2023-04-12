@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 💬  I'd love to have a conversation with you in English 🇺🇸, Mandarin 🇨🇳, Cantonese 🇭🇰, or alittle bit of Korean 🇰🇷
 
 ### Passion Projects
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning: Web/app development 
+- 🔭 I’m currently working on: 
+- 🌱 I’m currently learning: CS50x, Web/app development 
 
 
 ### Recent Project Highlights:
