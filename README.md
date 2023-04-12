@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 ### Recent Project Highlights:
 - BRB
 
-- 📫 How to reach me:
+
+📫 How to reach me:
 - For now just contact Pepper Potts
 
 
