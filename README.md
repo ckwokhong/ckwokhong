@@ -18,7 +18,7 @@
 
 
 📫 How to reach me:
-- For now just contact Pepper Potts
+- For now just contact Pepper Potts or you can email me at c.kwokhong@gmail.com
 
 
 [linkedin]: https://www.linkedin.com/in/chengkh/
