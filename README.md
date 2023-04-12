@@ -1,6 +1,7 @@
 ## I'm [Kevin Cheng][linkedin] 👋, a Data Analyst from Singapore 🇸🇬
 
 ### About Kevin
+- 😬 You can call me Kwok Hong or Kevin 
 - 🚀  I use Statistical Analysis, Data Visualization, and Machine Learning techniques to generate meaningful outcomes for businesses.
 - ⚡  I’m passionate about Machine Learning/Data related competitions
 - 💬  I'd love to have a conversation with you in English 🇺🇸, Mandarin 🇨🇳, Cantonese 🇭🇰, or alittle bit of Korean 🇰🇷
